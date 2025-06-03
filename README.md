@@ -1,5 +1,6 @@
-Learning The Right Way
-------------------------------------------
-From Basics To Advanced
-------------------------------------------
-1) Swapping The Variable (without using a third variable)
+## Learning The Right Way
+
+## From Basics To Advanced
+
+1. Swapping The Variable (without using a third variable)
+2. User info Storage (storing the data in variable )
