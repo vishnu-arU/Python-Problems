@@ -1,0 +1,4 @@
+Hello vishnu, welcome to the platform.
+Your favorite color is blue.
+Today is a great day to learn python.
+Let's replace all the positivity with something meaningful!
